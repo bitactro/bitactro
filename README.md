@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Mishra
 - 👀 I’m interested in Software Development and Programming.
-- 🌱 I’m currently in final year of my MCA at NIT Allahabad.
+- 🌱 I’m currently in final year of MCA at NIT Allahabad.
 - 💞️ I’m looking to collaborate on a project which seems interesting and solving some good problem in society.
 - 📫 You can reach me through <a href="https://www.linkedin.com/in/ankitmishrar/">LinkedIn</a> .
 
