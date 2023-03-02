@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ankit Mishra
+- Software Engineer
 - 👀 I’m interested in Software Development and Programming.
-- 🌱 I’m currently in final year of MCA at NIT Allahabad.
+- 🌱 Post graduated in Computer Applications (MCA) from NIT Allahabad.
 - 💞️ I’m looking to collaborate on a project which seems interesting and solving some good problem in society.
-- 📫 You can reach me through <a href="https://www.linkedin.com/in/ankitmishrar/">LinkedIn</a> .
+
 
 <!---
 bitactro/bitactro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
