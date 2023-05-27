@@ -2,7 +2,7 @@
 - Software Engineer
 - 👀 I’m interested in Software Development and Programming.
 - 🌱 Post graduated in Computer Applications (MCA) from NIT Allahabad.
-- 💞️ I’m looking to collaborate on a project which seems interesting and solving some good problem in society.
+
 
 
 <!---
