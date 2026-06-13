@@ -13,9 +13,8 @@ Cloud Software Engineer passionate about building scalable cloud-native applicat
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add your LinkedIn URL]
-* Portfolio: [Add your website if any]
-* Email: [Add your email]
+* LinkedIn: [https://www.linkedin.com/in/ankitmishrar/]
+* Email: [ankitmishraR21@gmail.com]
 
 ---
 
