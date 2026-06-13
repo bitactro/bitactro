@@ -1,8 +1,25 @@
-- 👋 Hi, I’m Ankit Mishra
-- Cloud Software Engineer at McAfee
-- 👀 I’m interested in Software Development and Programming.
-- 🌱 Post graduated in Computer Applications (MCA) from NIT Allahabad.
+# Hi there 👋, I'm Ankit Mishra
 
+Cloud Software Engineer passionate about building scalable cloud-native applications, backend systems, and security-focused solutions.
+
+* 💼 Cloud Software Engineer at McAfee
+* ☁️ Experienced in cloud technologies, distributed systems, and backend development
+* 🔐 Interested in cybersecurity, software engineering, and system design
+* 🚀 Creator of BookLal, a marketplace for buying and selling used books
+* 💻 Working with Node.js, Golang, Python, JavaScript, and REST APIs
+* 🎓 Master of Computer Applications (MCA) from Motilal Nehru National Institute of Technology (MNNIT), Prayagraj
+* 🌱 Exploring AI applications, cloud architecture, and product development
+* 📚 Technology enthusiast, builder, and lifelong learner
+
+## 📫 Connect With Me
+
+* LinkedIn: [Add your LinkedIn URL]
+* Portfolio: [Add your website if any]
+* Email: [Add your email]
+
+---
+
+*"First, solve the problem. Then, write the code."*
 
 
 <!---
