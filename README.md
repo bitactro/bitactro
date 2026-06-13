@@ -5,7 +5,7 @@ Cloud Software Engineer passionate about building scalable cloud-native applicat
 * 💼 Cloud Software Engineer at McAfee
 * ☁️ Experienced in cloud technologies, distributed systems, and backend development
 * 🔐 Interested in cybersecurity, software engineering, and system design
-* 🚀 Creator of BookLal, a marketplace for buying and selling used books
+* 🚀 Founder and developer of [BookLal](https://play.google.com/store/apps/details?id=com.booklal.booklal), helping readers buy and sell used books across India
 * 💻 Working with Node.js, Golang, Python, JavaScript, and REST APIs
 * 🎓 Master of Computer Applications (MCA) from Motilal Nehru National Institute of Technology (MNNIT), Prayagraj
 * 🌱 Exploring AI applications, cloud architecture, and product development
